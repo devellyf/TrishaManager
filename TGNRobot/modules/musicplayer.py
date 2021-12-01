@@ -1,7 +1,7 @@
-__mod_name__ = "𝐌𝐮𝐬𝐢𝐜 𝐏𝐥𝐚𝐲𝐞𝐫"
+__mod_name__ = "🥀𝐌𝐮𝐬𝐢𝐜 𝐤𝐚𝐧𝐧𝐮🥀"
 
 __help__ = """
-=>> *Song Playing* 🎧 
+=>> *Song Playing*🥀 
 ❍ /play <song name> - play song you requested
 ❍ /playlist - Show now playing list
 ❍ /current - Show now playing
@@ -17,6 +17,6 @@ __help__ = """
 ❍ /userbotjoin - invite assistant to your chat
 ❍ /admincache - Refresh admin list
 =>>   *Use*
-1) Add @DevilTrishaRoBot in your group to admin with all permission
+1) Add @kannuop2_Bot in your group to admin with all permission
 2) Assistant Auto Join Send /play Command First Tme By Owner
 """
