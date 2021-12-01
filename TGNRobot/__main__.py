@@ -85,14 +85,14 @@ buttons = [
             text="ᴀᴅᴅ ➣𝐓𝐫𝐢𝐬𝐡𝐚➣ ᴛᴏ ᴜʀ ᴄʜᴀᴛ", url="t.me/kannuop2_bot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="𝐒𝐨𝐮𝐫𝐜𝐞 💫", url=f"https://t.me/XD_dead_killer"),
+        InlineKeyboardButton(text="𝐒𝐨𝐮𝐫𝐜𝐞 🥀", url=f"https://t.me/XD_dead_killer"),
         InlineKeyboardButton(
-            text="𝐅𝐞𝐝 𝐂𝐡𝐚𝐭 ⚡", url=f"https://t.me/XdTeleban"
+            text="𝐅𝐞𝐝 𝐂𝐡𝐚𝐭 ⚔️", url=f"https://t.me/XdTeleban"
         ),
     ],
     [
         InlineKeyboardButton(
-            text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩", url=f"https://t.me/XD_dead_killer"
+            text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩📣", url=f"https://t.me/XD_dead_killer"
         ),
     ],
     [
@@ -357,15 +357,15 @@ def zaid_about_callback(update, context):
     query = update.callback_query
     if query.data == "zaid_":
         query.message.edit_text(
-            text=""" ℹ️ I am [【🇮🇳♡➣𝐓𝐫𝐢𝐬𝐡𝐚➣♡🇮🇳】](t.me/DevilTrishaRoBot), a powerful group management bot built to help you manage your group easily.
+            text=""" ℹ️ I am [【🥀𝐊𝐀𝐍𝐍𝐔 𝐗𝐃🥀】](t.me/kannuop2_bot), a powerful group management bot built to help you manage your group easily.
                  \n❍ I can restrict users.
                  \n❍ I can greet users with customizable welcome messages and even set a group's rules.
                  \n❍ I have an advanced anti-flood system.
                  \n❍ I can warn users until they reach max warns, with each predefined actions such as ban, mute, kick, etc.
                  \n❍ I have a note keeping system, blacklists, and even predetermined replies on certain keywords.
                  \n❍ I check for admins' permissions before executing any command and more stuffs
-                 \n\n_【🇮🇳♡➣𝐓𝐫𝐢𝐬𝐡𝐚➣♡🇮🇳】licensed under the GNU General Public License v3.0_
-                 \n❍ Assistant @DevilTrishaRoBot\_Assistant.
+                 \n\n_【🥀𝐊𝐀𝐍𝐍𝐔】licensed under the GNU General Public License v3.0_
+                 \n❍ Assistant @kannuop2_bot\_Assistant.
                  \nHere is the [💾Repository](https://github.com/rakeshyt/TrishaManager).
                  \n\nIf you have any question about bot, let us know at .""",
             parse_mode=ParseMode.MARKDOWN,
@@ -393,7 +393,7 @@ def Source_about_callback(update, context):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text=""" Hi..🤗 I am [♡➣𝐓𝐫𝐢𝐬𝐡𝐚➣♡](t.me/DevilTrishaRoBot)
+            text=""" Hi..🤗 I am [kannu❤️](t.me/kannuop2_bot)
                  \nHere is the [Source Code](https://github.com/rakeshyt/TrishaManager) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
