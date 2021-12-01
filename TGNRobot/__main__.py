@@ -82,7 +82,7 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="ᴀᴅᴅ ➣𝐓𝐫𝐢𝐬𝐡𝐚➣ ᴛᴏ ᴜʀ ᴄʜᴀᴛ", url="t.me/kannuop2_bot?startgroup=true"),
+            text="ᴀᴅᴅ 𝐊𝐀𝐍𝐍𝐔 𝐗𝐃 ᴛᴏ ᴜʀ ᴄʜᴀᴛ", url="t.me/kannuop2_bot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="𝐒𝐨𝐮𝐫𝐜𝐞 🥀", url=f"https://t.me/XD_dead_killer"),
