@@ -1,7 +1,7 @@
-__mod_name__ = "🥀𝐌𝐮𝐬𝐢𝐜 𝐤𝐚𝐧𝐧𝐮🥀"
+__mod_name__ = "𝐌𝐮𝐬𝐢𝐜 𝐏𝐥𝐚𝐲𝐞𝐫"
 
 __help__ = """
-=>> *Song Playing*🥀 
+=>> *Song Playing*🔄
 ❍ /play <song name> - play song you requested
 ❍ /playlist - Show now playing list
 ❍ /current - Show now playing
